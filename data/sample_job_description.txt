@@ -1,0 +1,17 @@
+Data Scientist (NLP)
+
+About the role
+We are looking for a Data Scientist to build text-matching and classification models that help our HR team screen applications faster.
+
+Requirements
+- 2+ years of experience in data science or machine learning
+- Strong Python with pandas and numpy
+- Hands-on experience with scikit-learn and machine learning model development
+- Experience with NLP and TF-IDF based text representation
+- Solid understanding of statistics and SQL
+- Familiarity with git
+
+Nice to have
+- Experience with deep learning (PyTorch or TensorFlow)
+- Docker and model deployment
+- Feature engineering and XGBoost

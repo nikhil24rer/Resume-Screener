@@ -1,0 +1,150 @@
+candidate_id,name,email,skills,education,experience_years,experience,projects,role_label
+C001,Ira Jain,ira.jain@example.com,xgboost | nlp | matplotlib | statistics | tf-idf | machine learning | feature engineering | sql | scikit-learn | linux | git,"M.Tech in Computer Science, Summit College of Engineering (2017 - 2020)",5.0,"Machine Learning Analyst | Pixel Forge | May 2024 - Present
+- Performed feature engineering with tf-idf and sql; evaluated models with cross validation using nlp
+- Built statistics models with tf-idf and machine learning to predict customer churn, improving recall by 28%
+Machine Learning Analyst | Quantix Systems | Nov 2021 - May 2024
+- Built statistics models with feature engineering and matplotlib to predict customer churn, improving recall by 21%
+- Performed feature engineering with nlp and feature engineering; evaluated models with cross validation using linux","- Churn prediction: trained xgboost model with statistics and tracked metrics with feature engineering
+- Resume matching tool: used feature engineering and linux to rank documents by similarity",data_scientist
+C002,Omar Saxena,omar.saxena@example.com,"tf-idf,python,statistics,machine learning,sql,matplotlib,scikit-learn,nlp,pandas,agile","M.Tech in Computer Science, Lakeshore University (2020 - 2023)",2.0,"Junior Data Scientist | Vertex Cloud | Nov 2024 - Present
+- Performed feature engineering with nlp and statistics; evaluated models with cross validation using tf-idf
+- Built agile models with tf-idf and python to predict customer churn, improving recall by 35%","- Resume matching tool: used statistics and tf-idf to rank documents by similarity
+- Churn prediction: trained scikit-learn model with matplotlib and tracked metrics with machine learning",data_scientist
+C003,Nikhil Singh,nikhil.singh@example.com,"statistics, matplotlib, sql, machine learning, feature engineering, numpy, python, scikit-learn, xgboost, git, agile","MCA, Northfield Institute of Technology (2021 - 2024)",1.5,"Data Scientist | Orbit Analytics | May 2025 - Present
+- Built machine learning models with sql and scikit-learn to predict customer churn, improving recall by 15%
+- Performed feature engineering with git and machine learning; evaluated models with cross validation using scikit-learn","- Churn prediction: trained git model with agile and tracked metrics with matplotlib
+- Resume matching tool: used sql and feature engineering to rank documents by similarity",data_scientist
+C004,Nikhil Gupta,nikhil.gupta@example.com,machine learning / feature engineering / sql / xgboost / scikit-learn / python / agile / git,"BCA, Crestview Institute of Science (2020 - 2023)",2.0,"Data Scientist | Lumen Data | Nov 2024 - Present
+- Performed feature engineering with python and machine learning; evaluated models with cross validation using scikit-learn
+- Applied machine learning and agile for text classification of support tickets using xgboost","- Resume matching tool: used python and git to rank documents by similarity
+- Churn prediction: trained sql model with xgboost and tracked metrics with feature engineering",data_scientist
+C005,Aditya Nair,aditya.nair@example.com,"FEATURE ENGINEERING, NLP, TF-IDF, MATPLOTLIB, SQL, XGBOOST, STATISTICS, MACHINE LEARNING, UNIT TESTING","BCA, Lakeshore University (2021 - 2024)",1.5,"Data Scientist | Pixel Forge | May 2025 - Present
+- Performed feature engineering with xgboost and feature engineering; evaluated models with cross validation using matplotlib
+- Applied tf-idf and machine learning for text classification of support tickets using nlp","- Churn prediction: trained sql model with unit testing and tracked metrics with machine learning
+- Resume matching tool: used feature engineering and matplotlib to rank documents by similarity",data_scientist
+C006,Sameer Reddy,sameer.reddy@example.com,matplotlib | sql | tf-idf | nlp | scikit-learn | statistics | feature engineering | linux | agile,"B.Tech in Computer Science, Lakeshore University (2022 - 2025)",,,"- Resume matching tool: used statistics and linux to rank documents by similarity
+- Churn prediction: trained agile model with statistics and tracked metrics with nlp",data_scientist
+C007,Vikram Joshi,vikram.joshi@example.com,statistics; tf-idf; machine learning; feature engineering; nlp; pandas; python; sql; git,"BCA, Riverside University (2016 - 2019)",6.0,"Machine Learning Analyst | Pixel Forge | Nov 2023 - Present
+- Applied tf-idf and feature engineering for text classification of support tickets using machine learning
+- Performed feature engineering with pandas and machine learning; evaluated models with cross validation using sql
+Machine Learning Analyst | Atlas Digital | Nov 2020 - Nov 2023
+- Built statistics models with git and nlp to predict customer churn, improving recall by 26%
+- Applied machine learning and sql for text classification of support tickets using statistics","- Churn prediction: trained sql model with git and tracked metrics with machine learning
+- Resume matching tool: used machine learning and statistics to rank documents by similarity",data_scientist
+C008,Neha Bose,,"pandas, matplotlib, sql, tf-idf, xgboost, machine learning, statistics, python, nlp","B.E in Information Technology, Northfield Institute of Technology (2015 - 2018)",7.0,"Machine Learning Analyst | Vertex Cloud | May 2023 - Present
+- Performed feature engineering with nlp and statistics; evaluated models with cross validation using tf-idf
+- Built xgboost models with statistics and sql to predict customer churn, improving recall by 11%
+Machine Learning Analyst | Quantix Systems | Nov 2019 - May 2023
+- Built xgboost models with matplotlib and python to predict customer churn, improving recall by 23%
+- Performed feature engineering with sql and matplotlib; evaluated models with cross validation using python","- Churn prediction: trained python model with xgboost and tracked metrics with pandas
+- Resume matching tool: used tf-idf and xgboost to rank documents by similarity",data_scientist
+C009,Sameer Jain,sameer.jain@example.com,model deployment; fastapi; pytorch; deep learning; docker; aws; mlops; git; agile; linux,"M.Sc in Data Science, Summit College of Engineering (2022 - 2025)",0.5,"ML Engineer | Quantix Systems | May 2026 - Present
+- Trained docker models in linux and deployed them with git, cutting inference latency by 15%
+- Fine-tuned git models for NLP tasks using docker and served them via mlops","- Image classifier: built with fastapi and model deployment, packaged using mlops
+- Sentiment API: fine-tuned aws with docker and exposed it using model deployment",ml_engineer
+C010,Aditya Rao,aditya.rao@example.com,Deep Learning / Git / Transformers / Python / Docker / Fastapi,"M.Tech in Computer Science, Summit College of Engineering (2021 - 2024)",1.0,"ML Engineer | Helio Works | Nov 2025 - Present
+- Built deep learning pipelines and containerised services with python on transformers
+- Fine-tuned transformers models for NLP tasks using fastapi and served them via deep learning","- Image classifier: built with fastapi and python, packaged using transformers
+- Sentiment API: fine-tuned fastapi with python and exposed it using deep learning",ml_engineer
+C011,Rohan Bose,rohan.bose@example.com,PYTORCH / MLOPS / DOCKER / GIT / MODEL DEPLOYMENT / AWS / DEEP LEARNING / TRANSFORMERS / PYTHON / LINUX / AGILE,"B.Sc in Statistics, Crestview Institute of Science (2022 - 2025)",0.0,,"- Image classifier: built with pytorch and git, packaged using model deployment
+- Sentiment API: fine-tuned python with docker and exposed it using model deployment",ml_engineer
+C012,Karan Reddy,karan.reddy@example.com,,"BCA, Northfield Institute of Technology (2021 - 2024)",1.5,"AI Engineer | BrightPath Tech | May 2025 - Present
+- Built nlp pipelines and containerised services with deep learning on transformers
+- Fine-tuned tensorflow models for NLP tasks using python and served them via git","- Image classifier: built with linux and nlp, packaged using pytorch
+- Sentiment API: fine-tuned fastapi with deep learning and exposed it using transformers",ml_engineer
+C013,Dev Reddy,dev.reddy@example.com,"NLP,DOCKER,PYTHON,GIT,MODEL DEPLOYMENT,AWS,FASTAPI,MLOPS,LINUX","M.Sc in Data Science, Summit College of Engineering (2017 - 2020)",5.0,"AI Engineer | Atlas Digital | May 2024 - Present
+- Built aws pipelines and containerised services with git on linux
+- Fine-tuned fastapi models for NLP tasks using git and served them via linux
+ML Engineer | Lumen Data | Nov 2021 - May 2024
+- Fine-tuned fastapi models for NLP tasks using linux and served them via aws
+- Built mlops pipelines and containerised services with nlp on docker","- Image classifier: built with mlops and docker, packaged using model deployment
+- Sentiment API: fine-tuned mlops with nlp and exposed it using aws",ml_engineer
+C014,Divya Sharma,divya.sharma@example.com,Aws | Git | Tensorflow | Pytorch | Fastapi | Model Deployment | Transformers | Linux,"BCA, Summit College of Engineering (2022 - 2025)",0.5,"AI Engineer | Pixel Forge | May 2026 - Present
+- Fine-tuned git models for NLP tasks using linux and served them via model deployment
+- Trained pytorch models in model deployment and deployed them with aws, cutting inference latency by 35%","- Sentiment API: fine-tuned linux with git and exposed it using model deployment
+- Image classifier: built with fastapi and aws, packaged using transformers",ml_engineer
+C015,Rahul Khanna,rahul.khanna@example.com,Javascript / Css / Mongodb / Typescript / Html / React / Git / Rest Api / Agile,"B.Tech in Computer Science, Crestview Institute of Science (2021 - 2024)",,"Full Stack Developer | Orbit Analytics | Nov 2025 - Present
+- Designed typescript backends using rest api and react
+- Developed responsive interfaces with rest api and html, improving page load time by 8%","- Task manager app using agile and mongodb with a javascript backend
+- E-commerce site built with rest api, react and html",web_developer
+C016,Sara Singh,sara.singh@example.com,AGILE / REST API / CSS / GIT / MYSQL / NODE.JS / REACT / HTML,"M.Tech in Computer Science, Crestview Institute of Science (2021 - 2024)",1.5,"Frontend Developer | Kestrel Software | May 2025 - Present
+- Developed responsive interfaces with mysql and agile, improving page load time by 11%
+- Designed html backends using react and css","- Task manager app using git and mysql with a css backend
+- E-commerce site built with css, node.js and agile",web_developer
+C017,Nikhil Saxena,nikhil.saxena@example.com,"css,git,javascript,mongodb,mysql,react","B.E in Information Technology, Riverside University (2020 - 2023)",2.0,"Web Developer | Atlas Digital | Nov 2024 - Present
+- Designed git backends using javascript and mongodb
+- Implemented features in react and javascript following agile practices with css","- E-commerce site built with git, mongodb and javascript
+- Task manager app using css and mongodb with a react backend",web_developer
+C018,Yash Jain,yash.jain@example.com,"TYPESCRIPT, REACT, GIT, MONGODB, AGILE, REST API, NODE.JS, HTML, UNIT TESTING","M.Tech in Computer Science, Crestview Institute of Science (2021 - 2024)",1.5,"Web Developer | Quantix Systems | May 2025 - Present
+- Implemented features in agile and node.js following agile practices with typescript
+- Designed typescript backends using unit testing and git","- E-commerce site built with mongodb, git and unit testing
+- Task manager app using html and rest api with a unit testing backend",web_developer
+C019,Dev Sharma,dev.sharma@example.com,"Mysql,Node.Js,Rest Api,React,Typescript,Html,Css,Mongodb,Git","B.Sc in Statistics, Riverside University (2019 - 2022)",3.0,"Frontend Developer | Quantix Systems | May 2025 - Present
+- Implemented features in git and html following agile practices with mysql
+- Designed typescript backends using react and mysql
+Web Developer | Orbit Analytics | Nov 2023 - May 2025
+- Implemented features in mysql and html following agile practices with node.js
+- Developed responsive interfaces with react and node.js, improving page load time by 21%","- E-commerce site built with html, rest api and css
+- Task manager app using mysql and typescript with a css backend",web_developer
+C020,Manav Mehta,manav.mehta@example.com,NODE.JS; TYPESCRIPT; CSS; AGILE; JAVASCRIPT; MONGODB; REST API,"B.E in Information Technology, Northfield Institute of Technology (2022 - 2025)",0.0,,"- E-commerce site built with node.js, typescript and agile
+- Task manager app using javascript and node.js with a mongodb backend",web_developer
+C021,Omar Khanna,omar.khanna@example.com,"Data Visualization,Python,Excel,Tableau,Data Analysis,Etl,Sql,Power Bi,Statistics,Git","M.Tech in Computer Science, Northfield Institute of Technology (2022 - 2025)",0.0,,,data_analyst
+C022,Nikhil Reddy,nikhil.reddy@example.com,"data analysis, statistics, python, tableau, etl, data visualization, power bi, linux","BCA, Lakeshore University (2022 - 2025)",0.5,"Business Analyst | Orbit Analytics | May 2026 - Present
+- Wrote complex linux queries and automated reports with tableau and power bi
+- Performed data analysis with data visualization and tableau to uncover revenue trends","- Customer segmentation using linux, data analysis and power bi
+- Sales dashboard built with statistics and data analysis",data_analyst
+C023,Sneha Reddy,sneha.reddy@example.com,"python,power bi,sql,data analysis,pandas,etl,git","B.E in Information Technology, Summit College of Engineering (2018 - 2021)",4.0,"BI Analyst | Kestrel Software | Nov 2024 - Present
+- Wrote complex pandas queries and automated reports with git and power bi
+- Created dashboards in etl and data analysis used by leadership, saving 14 hours weekly
+Business Analyst | Atlas Digital | Nov 2022 - Nov 2024
+- Wrote complex git queries and automated reports with sql and pandas
+- Created dashboards in git and data analysis used by leadership, saving 9 hours weekly","- Customer segmentation using power bi, sql and etl
+- Sales dashboard built with sql and git",data_analyst
+C024,Divya Verma,divya.verma@example.com,power bi | pandas | excel | data visualization | python | sql | data analysis | agile | linux,"M.Tech in Computer Science, Summit College of Engineering (2018 - 2021)",4.0,"Business Analyst | Lumen Data | Nov 2024 - Present
+- Performed data analysis with power bi and excel to uncover revenue trends
+- Created dashboards in pandas and python used by leadership, saving 35 hours weekly
+Business Analyst | Helio Works | Nov 2022 - Nov 2024
+- Wrote complex python queries and automated reports with data visualization and data analysis
+- Performed data analysis with pandas and sql to uncover revenue trends","- Customer segmentation using linux, python and power bi
+- Sales dashboard built with data visualization and data analysis",data_analyst
+C025,Karan Malik,karan.malik@example.com,"Sql,Tableau,Data Analysis,Excel,Pandas,Power Bi,Unit Testing","B.Tech in Computer Science, Riverside University (2022 - 2025)",0.5,"Data Analyst | Vertex Cloud | May 2026 - Present
+- Performed data analysis with pandas and unit testing to uncover revenue trends
+- Created dashboards in excel and power bi used by leadership, saving 35 hours weekly","- Sales dashboard built with sql and data analysis
+- Customer segmentation using excel, pandas and unit testing",data_analyst
+C026,Pooja Saxena,pooja.saxena@example.com,"linux, kubernetes, ci/cd, docker, aws, bash, terraform, jenkins, azure","BCA, Lakeshore University (2018 - 2021)",4.0,"Site Reliability Engineer | Vertex Cloud | Nov 2024 - Present
+- Built CI/CD pipelines in terraform with aws and bash
+- Automated deployments using docker and bash, reducing release time by 18%
+DevOps Engineer | Atlas Digital | Nov 2022 - Nov 2024
+- Built CI/CD pipelines in azure with docker and terraform
+- Automated deployments using bash and ci/cd, reducing release time by 14%","- Kubernetes cluster automation with docker and ci/cd
+- Infrastructure provisioning using ci/cd, kubernetes and jenkins",devops_engineer
+C027,Omar Verma,omar.verma@example.com,git | azure | jenkins | ci/cd | bash | aws | kubernetes | terraform | docker | linux,"BCA, Summit College of Engineering (2020 - 2023)",2.0,"Site Reliability Engineer | Quantix Systems | Nov 2024 - Present
+- Managed infrastructure as code with terraform on git and docker
+- Built CI/CD pipelines in bash with azure and docker","- Infrastructure provisioning using linux, docker and git
+- Kubernetes cluster automation with terraform and ci/cd",devops_engineer
+C028,Sneha Saxena,sneha.saxena@example.com,"Bash,Aws,Docker,Terraform,Git,Azure,Jenkins,Linux,Ci/Cd","MCA, Crestview Institute of Science (2021 - 2024)",1.5,"Site Reliability Engineer | Helio Works | May 2025 - Present
+- Automated deployments using azure and git, reducing release time by 34%
+- Managed infrastructure as code with azure on bash and jenkins","- Kubernetes cluster automation with aws and jenkins
+- Infrastructure provisioning using git, docker and linux",devops_engineer
+C029,Rahul Joshi,rahul.joshi@example.com,"AZURE, AWS, JENKINS, BASH, GIT, TERRAFORM","MCA, Crestview Institute of Science (2015 - 2018)",7.0,"Cloud Engineer | Lumen Data | May 2023 - Present
+- Automated deployments using terraform and bash, reducing release time by 9%
+- Built CI/CD pipelines in jenkins with terraform and aws
+Cloud Engineer | Pixel Forge | Nov 2019 - May 2023
+- Automated deployments using aws and terraform, reducing release time by 26%
+- Built CI/CD pipelines in azure with git and terraform","- Kubernetes cluster automation with aws and terraform
+- Infrastructure provisioning using terraform, git and aws",devops_engineer
+C030,Kabir Saxena,kabir.saxena@example.com,Docker | Ci/Cd | Jenkins | Git | Bash | Kubernetes | Terraform | Aws | Linux,"B.Sc in Statistics, Riverside University (2016 - 2019)",6.0,"Cloud Engineer | Helio Works | Nov 2023 - Present
+- Managed infrastructure as code with bash on terraform and linux
+- Built CI/CD pipelines in jenkins with git and terraform
+Cloud Engineer | Nimbus Labs | Nov 2020 - Nov 2023
+- Built CI/CD pipelines in kubernetes with ci/cd and linux
+- Managed infrastructure as code with bash on ci/cd and terraform","- Infrastructure provisioning using linux, jenkins and terraform
+- Kubernetes cluster automation with terraform and ci/cd",devops_engineer
+C003,Nikhil Singh,nikhil.singh@example.com,"statistics, matplotlib, sql, machine learning, feature engineering, numpy, python, scikit-learn, xgboost, git, agile","MCA, Northfield Institute of Technology (2021 - 2024)",1.5,"Data Scientist | Orbit Analytics | May 2025 - Present
+- Built machine learning models with sql and scikit-learn to predict customer churn, improving recall by 15%
+- Performed feature engineering with git and machine learning; evaluated models with cross validation using scikit-learn","- Churn prediction: trained git model with agile and tracked metrics with matplotlib
+- Resume matching tool: used sql and feature engineering to rank documents by similarity",data_scientist
+C901,ADITYA RAO  ,ADITYA.RAO@EXAMPLE.COM,Deep Learning / Git / Transformers / Python / Docker / Fastapi,"M.Tech in Computer Science, Summit College of Engineering (2021 - 2024)",1.0,"ML Engineer | Helio Works | Nov 2025 - Present
+- Built deep learning pipelines and containerised services with python on transformers
+- Fine-tuned transformers models for NLP tasks using fastapi and served them via deep learning","- Image classifier: built with fastapi and python, packaged using transformers
+- Sentiment API: fine-tuned fastapi with python and exposed it using deep learning",ml_engineer
